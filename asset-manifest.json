@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6d7d530.css",
+    "main.js": "/static/js/main.d129ef51.js",
+    "static/media/main-img.jpg": "/static/media/main-img.8eed2e86c46325143688.jpg",
+    "static/media/content06.jpg": "/static/media/content06.c8e97d23d9fdf48f69ac.jpg",
+    "static/media/career-background.jpg": "/static/media/career-background.57e6f38fa48225337fe4.jpg",
+    "static/media/content08.jpg": "/static/media/content08.918b2351527d62cb08ba.jpg",
+    "static/media/content04.jpg": "/static/media/content04.abafb8ab4b5710a42378.jpg",
+    "static/media/content01.jpg": "/static/media/content01.42c1bccb8a2570366498.jpg",
+    "static/media/content10.jpg": "/static/media/content10.edba9ca49a11d8f2cf01.jpg",
+    "static/media/content05.jpg": "/static/media/content05.6b9ea7ad81416c4be830.jpg",
+    "static/media/content03.jpg": "/static/media/content03.6b2d552dc8b0531d2105.jpg",
+    "static/media/sustainability.jpg": "/static/media/sustainability.4a85267ac773d91d061d.jpg",
+    "static/media/content07.jpg": "/static/media/content07.573919418d202c063815.jpg",
+    "static/media/mass_timber_building.jpg": "/static/media/mass_timber_building.769b3ed2256dfb018f79.jpg",
+    "static/media/content02.jpg": "/static/media/content02.d931ef6da0af26a9127e.jpg",
+    "static/media/modular_developer.jpg": "/static/media/modular_developer.56efc3749e5a0a462595.jpg",
+    "static/media/content09.jpg": "/static/media/content09.32c82e07640eba45aebf.jpg",
+    "static/media/master_plan.jpg": "/static/media/master_plan.b8a9cb05dd35bef04cca.jpg",
+    "static/media/content11.jpg": "/static/media/content11.c998b7a13a8e2980cf2d.jpg",
+    "static/media/forrest_lab_logo_black.svg": "/static/media/forrest_lab_logo_black.a1c4f06e4570f405ae94dcc18a88545a.svg",
+    "static/media/i_instagram.svg": "/static/media/i_instagram.ee28edb05361edfb52569dc9ee510950.svg",
+    "static/media/forrest_lab_symbol_black.svg": "/static/media/forrest_lab_symbol_black.ba63e64e0f73859b83920f10a89aa9f5.svg",
+    "static/media/i_address.svg": "/static/media/i_address.d5121056c9e04ba4e2da35203a69f428.svg",
+    "index.html": "/index.html",
+    "static/media/i_copyright.svg": "/static/media/i_copyright.bec2903c0fa90bae969f084e1a581a88.svg",
+    "static/media/i_contact.svg": "/static/media/i_contact.2997ce9915f299c12c286e61556b8f8b.svg",
+    "main.d6d7d530.css.map": "/static/css/main.d6d7d530.css.map",
+    "main.d129ef51.js.map": "/static/js/main.d129ef51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6d7d530.css",
+    "static/js/main.d129ef51.js"
+  ]
+}
