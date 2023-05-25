@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a25f0829.css",
-    "main.js": "/static/js/main.92a963c5.js",
+    "main.css": "/static/css/main.dfb089aa.css",
+    "main.js": "/static/js/main.54ff9fb4.js",
     "static/media/construction.jpg": "/static/media/construction.13b6d035559686088558.jpg",
     "static/media/forrest_lab_logo_white.svg": "/static/media/forrest_lab_logo_white.dae410db455fbde5da74636362019ccb.svg",
     "index.html": "/index.html",
-    "main.a25f0829.css.map": "/static/css/main.a25f0829.css.map",
-    "main.92a963c5.js.map": "/static/js/main.92a963c5.js.map"
+    "main.dfb089aa.css.map": "/static/css/main.dfb089aa.css.map",
+    "main.54ff9fb4.js.map": "/static/js/main.54ff9fb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.a25f0829.css",
-    "static/js/main.92a963c5.js"
+    "static/css/main.dfb089aa.css",
+    "static/js/main.54ff9fb4.js"
   ]
 }
